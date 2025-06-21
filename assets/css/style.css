@@ -1583,6 +1583,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * PORTFOLIO
    */
 
+   
   .article-title { padding-bottom: 20px; }
 
   .filter-select-box { display: none; }
@@ -1722,6 +1723,28 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .clients-item { min-width: calc(25% - 38px); }
 
+
+/* Add styles for testimonials section */
+
+  .testimonials-item-title {
+
+    font-size: 1.2rem;
+
+    font-weight: bold;
+
+  }
+
+
+
+  .testimonials-job-title {
+
+    font-size: 1rem;
+
+    font-style: italic;
+
+    color: #555;
+
+}
 
 
   /**
